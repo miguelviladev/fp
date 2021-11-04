@@ -5,9 +5,16 @@ termos, enquanto forem positivos. Note que terá que usar uma instrução while.
 fim, o programa deve dizer quantos termos mostrou.
 """
 
-def func(n):
-    if n > 0:
-        print(n)
-        return func(1.01*n - 1.01) 
+# def func(n):
+#     if n > 0:
+#         print(n)
+#         return func(1.01*n - 1.01) 
+# 
+# func(100)
 
-func(100)
+def func(val = 100):
+    if val > 0:
+        print(val)
+        return func(1.01*val-1.01)
+
+func()
