@@ -41,6 +41,7 @@ def main():
     spiral(a, 10, 200, 10)
     spiral(b, 200, 0, -5)
 
-    turtle.exitonclick()        # wait for click, then close window
+    # Wait for click, then close window
+    turtle.exitonclick()
 
 main()
