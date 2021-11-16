@@ -5,7 +5,7 @@ Sugestão: o método isupper verifica se uma string só tem maiúsculas, e.g., "
 """
 
 def shorten(str):
-    word_list = str.split(" ")
+    word_list = str.split()
     char_str = ""
     for word in word_list:
         if word[0].isupper(): char_str += word[0]
