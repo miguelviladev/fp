@@ -1,7 +1,3 @@
-# coding: utf-8
-
-# This function computes the body mass index (BMI),
-# given the height (in meter) and weight (in kg) of a person.
 def bodyMassIndex(height, weight):
     return weight / height**2
 
@@ -19,8 +15,6 @@ def bmiCategory(bmi):
     else:
         return "Obesity"
 
-
-# This is the main function
 def main():
     print("Índice de Massa Corporal")
     altura = float(input("Altura (m)? "))

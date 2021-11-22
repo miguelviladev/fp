@@ -1,23 +1,9 @@
-"""
-O programa telephones.py define duas listas, uma com números de telefone e outra com os nomes correspondentes.
-
-telList = ['975318642', '234000111', '777888333', ...]
-nameList = ['Angelina', 'Brad', 'Claudia', ...]
-
-a) Complete a função telToName que, dado um número de telefone (e as duas listas), devolve o nome respetivo (ou o próprio número, se não estiver na lista). Isto é o que os telemóveis fazem quando recebem uma chamada.
-b) Complete a função nameToTels que, dada parte de um nome, devolve a lista dos números correspondentes a nomes que incluem essa parte. (Como quando pesquisa na lista de contactos do telemóvel.)
-c) Corra o programa para testar essas funções.
-"""
-
-# Convert a telephone number into corresponding name, if on list. (If not on list, just return the number itself.)
 def telToName(num, num_list, nam_list):
     try:
         return nam_list[num_list.index(num)]
     except:
         return num
 
-
-# Return list of telephone numbers corresponding to names containing partName.
 def nameToTels(querry, num_list, nam_list):
     result_list = []
     for name in nam_list:
@@ -41,7 +27,6 @@ def main():
     print( nameToTels(name, num_list, nam_list) )
     print( nameToTels('Clau', num_list, nam_list) == ['777888333'] )
     print( nameToTels('Br', num_list, nam_list) == ['234000111', '911911911'] )
-
 
 if __name__ == "__main__":
     main()

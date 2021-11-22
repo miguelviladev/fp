@@ -1,7 +1,3 @@
-# Se sair de casa às 6:52 a passo e percorrer 1 km (ao ritmo de 10 min por km), depois fizer
-# um treino rápido de 3 km (a 6 min por km) e voltar a casa a passo, a que horas chego a
-# casa para o pequeno almoço?
-
 from datetime import date, datetime, time, timedelta
 
 start_time = datetime.combine(date.today(), time(6, 52))

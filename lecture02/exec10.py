@@ -1,9 +1,3 @@
-# You throw a dart that hits coordinates (x, y) on a dartboard.
-# Create a program that gives you the score.
-# See:
-#   https://en.wikipedia.org/wiki/Darts#Dartboard
-#   https://www.dimensions.com/element/dartboard
-
 import math
 
 def get_base_score(p_degrees):

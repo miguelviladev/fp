@@ -1,4 +1,3 @@
-
 # 4 Execuções
 def func1():
     n = 4

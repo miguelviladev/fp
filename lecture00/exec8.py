@@ -1,6 +1,3 @@
-# Try running this program.
-# Then change it to generate another subplot with the product of y1 and y2.
-
 import numpy as np
 import matplotlib.pyplot as plt
 

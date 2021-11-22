@@ -1,17 +1,3 @@
-"""
-Siga os seguintes passos, testando cada um:
-a) Crie uma função inputFloatList() que leia uma sequência de números
-introduzidos pelo utilizador e os devolva numa nova lista. O utilizador deve introduzir
-um número por linha e indicar o fim da lista com uma linha vazia.
-b) Crie uma função countLower(lst, v) que conte (e devolva) quantos elementos
-da lista lst são inferiores ao valor v.
-c) Crie uma função minmax(lst) que devolva o mínimo e o máximo de uma lista de
-valores. Consegue fazê-la sem usar as funções min e max?
-d) Recorra às funções anteriores para fazer um programa que leia uma lista de números,
-determine o valor médio entre o mínimo e o máximo e conte quantos números são
-inferiores a esse valor.
-"""
-
 def inputFloatList():
     l = []
     while True:

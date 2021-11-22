@@ -1,9 +1,3 @@
-# This program uses the module turtle to draw "turtle graphics"
-# For an introduction and examples, read
-# https://runestone.academy/runestone/static/thinkcspy/PythonTurtle/toctree.html
-# For a summary of the available methods:
-# https://runestone.academy/runestone/books/published/thinkcspy/PythonTurtle/SummaryofTurtleMethods.html
-
 import turtle
 
 # Make turtle t draw a square with the given side length

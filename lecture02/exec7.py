@@ -1,5 +1,4 @@
-# -*- coding: utf-8 -*-
-# Modifique o programa para indicar a categoria de IMC de acordo com a tabela:
+# Identificar a categoria de IMC de acordo com a tabela:
 # IMC:          <18.5   [18.5, 25[  [25, 30[    30 ou mais 
 # Categoria:    Magro   Saudável    Forte       Obeso 
 

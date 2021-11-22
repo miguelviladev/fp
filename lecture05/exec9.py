@@ -1,13 +1,3 @@
-"""
-a) Crie uma função que, dada uma string, devolve outra composta pelos caracteres das posições pares seguidos pelos caracteres das posições ímpares da primeira. Por exemplo, evenThenOdd("abcd") deve devolver "acbd". Pode fazê-lo usando slicing e concatenação. (CodeCheck).
-
-b) Crie uma função que, dada uma string s, devolve uma string semelhante mas sem caracteres adjacentes duplicados. Por exemplo, para o argumento "Mississippi" deve devolver "Misisipi". (CodeCheck).
-
-c) Crie uma função que, dado um inteiro não negativo n, devolve uma lista contendo 1, 2, 2, 3, 3, 3, 4, 4, 4, 4, ... e finalmente n repetido n vezes. (CodeCheck).
-
-d) Crie uma função que, dada uma lista de valores, devolve o índice da primeira ocorrência do maior valor. Pode admitir que a lista não está vazia. Não pode usar as funções max, find nem index. (CodeCheck).
-"""
-
 def evenTheOdd(str):
     return "".join(str[0::2]) + "".join(str[1::2])
 

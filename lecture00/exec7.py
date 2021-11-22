@@ -1,9 +1,3 @@
-# coding: utf-8
-
-# Execute the program and see what happens.
-# Then modify the program so that X is replaced by the course input.
-# Hint: see what we did with the name.
-
 message = """
 Caro/a {},
 

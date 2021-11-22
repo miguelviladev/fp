@@ -1,7 +1,3 @@
-"""
-Complete a função sec2hms de forma a converter um número de segundos sec em h horas, m minutos e s segundos
-"""
-
 def sec2hms(s):
     h = s//3600
     s -= h*3600

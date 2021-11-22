@@ -1,7 +1,3 @@
-"""
-A sequência de Fibonacci é uma sequência de inteiros na qual cada elemento é igual à soma dos dois anteriores: 0, 1, 1, 2, 3, 5, 8, 13, .... Os primeiros valores são definidos como F0 = 0 e F1=1. Escreva uma função Fibonacci(n) para calcular o n-ésimo número de Fibonacci. Sugestão: em cada iteração atualize e guarde os dois últimos valores da sequência.
-"""
-
 def Fibonacci(n):
     num0 = 0
     num1 = 1
