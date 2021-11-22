@@ -1,1 +1,15 @@
- <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/miguelviladev/programming-fundamentals">Programming Fundamentals</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/miguelviladev">Miguel Vila</a> is marked with <a href="http://creativecommons.org/publicdomain/zero/1.0?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1"></a></p> 
+# Bem-vindo a "Fundamentos de Programação"
+
+Fundamentos de Programação é uma cadeira da Universidade de Aveiro que tem como principal objetivo introduzir todos os alunos ao mundo da programação.
+
+Por razões jurídicas e de direitos de autor, os enunciados das aulas que estavam presentes neste repositório foram removidos do código (já que não são da minha autoria). De qualquer das formas, estão disponíveis [aqui](https://drive.google.com/drive/folders/14A0gQNhHkUcSluh71M5-E1cP1mBskCge) para consulta dos interessados.
+
+Considera seguir-me no [Twitter](https://twitter.com/miguelviladev) ou no [Instagram](https://www.instagram.com/miguelviladev/) para futuras atualizações e informações ou para tirar dúvidas.
+
+Vá, força nos dedos! 🚀
+
+# LICENÇA
+
+[Fundamentos de Programação](https://github.com/miguelviladev/programming-fundamentals), por [Miguel Vila](https://github.com/miguelviladev), está licenciado com a licença [CC0 1.0](LICENSE).
+
+Isto significa que não existem direitos de autor nem direitos conexos na medida permitida por lei. Ou seja, este repositório pertence ao domínio público. Assim, podes copiar, modificar, distribuir e executar o trabalho sem pedir autorização ou atribuir quaisquer créditos.
