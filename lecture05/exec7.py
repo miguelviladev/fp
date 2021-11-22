@@ -1,7 +1,7 @@
 """
 Crie uma função que, dado um nome, crie uma versão abreviada, formada apenas pelas letras maiúsculas. Por exemplo: shorten("Universidade de Aveiro") -> "UA", shorten("United Nations Organization") -> "UNO".
 
-Sugestão: o método isupper verifica se uma string só tem maiúsculas, e.g., "A".isupper() -> True.
+Sugestão: o método isupper verifica se uma string só tem maiúsculas: "A".isupper() -> True.
 """
 
 def shorten(str):
