@@ -1,8 +1,9 @@
 from tkinter import filedialog
+import os
 
 def main():
     #file_path = filedialog.askopenfilename(title="Escolhe um ficheiro")
-    file_path = "nums.txt"
+    file_path = f"{os.path.dirname(__file__)}./nums.txt"
     total = fileSum(file_path)
     print("Soma dos valores:", total)
 
