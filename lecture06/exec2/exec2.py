@@ -1,7 +1,8 @@
 import os
 import turtle
 
-def main(path=f"{os.path.dirname(__file__)}/instructions.txt"):
+def main():
+    path = f"{os.path.dirname(__file__)}/instructions.txt"
     t = turtle.Turtle()
     with open(path, "r") as file:
         for n in file.read().splitlines():
