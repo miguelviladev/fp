@@ -10,6 +10,6 @@ Vá, força nos dedos! 🚀
 
 # LICENÇA
 
-[Fundamentos de Programação](https://github.com/miguelviladev/programming-fundamentals), por [Miguel Vila](https://github.com/miguelviladev), está licenciado com a licença [CC0 1.0](LICENSE).
+[Fundamentos de Programação](https://github.com/miguelviladev/fundamentos-de-programacao), por [Miguel Vila](https://github.com/miguelviladev), está licenciado com a licença [CC0 1.0](LICENSE).
 
 Isto significa que não existem direitos de autor nem direitos conexos na medida permitida por lei. Ou seja, este repositório pertence ao domínio público. Assim, podes copiar, modificar, distribuir e executar o trabalho sem pedir autorização ou atribuir quaisquer créditos.
