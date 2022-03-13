@@ -2,7 +2,7 @@
 
 Fundamentos de Programação é uma cadeira da Universidade de Aveiro que tem como principal objetivo introduzir todos os alunos ao mundo da programação.
 
-Os enunciados das aulas que estavam presentes neste repositório foram removidos do código (já que não são da minha autoria). De qualquer das formas, estão disponíveis [aqui](https://drive.google.com/drive/folders/14A0gQNhHkUcSluh71M5-E1cP1mBskCge) para consulta dos interessados.
+Os enunciados das aulas presentes neste repositório não são da minha autoria e estão na respetiva pasta de cada aula. De qualquer das formas, estão disponíveis [aqui](https://drive.google.com/drive/folders/14A0gQNhHkUcSluh71M5-E1cP1mBskCge) juntamente com alguns recursos para consulta dos interessados.
 
 Considera seguir-me no [Twitter](https://twitter.com/miguelviladev) ou no [Instagram](https://www.instagram.com/miguelviladev/) para futuras atualizações e informações ou para tirar dúvidas.
 
